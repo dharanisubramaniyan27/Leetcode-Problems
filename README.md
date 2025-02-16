@@ -55,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
