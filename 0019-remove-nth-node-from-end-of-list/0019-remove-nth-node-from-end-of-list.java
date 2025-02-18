@@ -13,8 +13,8 @@ class Solution {
          if (head.next == null) return null;
         int size = Size(head);
         ListNode head2 = head;
-        if (size == 1) return null; // If only one node exists, return null
-        else if (n == size) head = head.next; // If removing the first node, update head
+        if (size == 1) return null; 
+        else if (n == size) head = head.next; 
         else{
             for(int i = 1 ; i < size - n; i++){
                 head2 = head2.next;
