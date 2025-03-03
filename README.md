@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -151,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
