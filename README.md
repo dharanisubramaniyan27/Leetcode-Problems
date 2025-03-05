@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0119-pascals-triangle-ii](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 ## Backtracking
 |  |
 | ------- |
