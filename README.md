@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
+| [1013-fibonacci-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
