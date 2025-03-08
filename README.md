@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0067-add-binary) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0119-pascals-triangle-ii](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [1013-fibonacci-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/1013-fibonacci-number) |
