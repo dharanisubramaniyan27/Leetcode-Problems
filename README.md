@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0268-missing-number) |
 ## Tree
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Simulation
