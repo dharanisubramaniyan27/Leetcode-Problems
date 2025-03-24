@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [3723-sum-of-good-numbers](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/3723-sum-of-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |
