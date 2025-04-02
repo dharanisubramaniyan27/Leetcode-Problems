@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3723-sum-of-good-numbers](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/3723-sum-of-good-numbers) |
 ## Two Pointers
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0268-missing-number) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/1013-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
