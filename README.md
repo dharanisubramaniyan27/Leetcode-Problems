@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0268-missing-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3723-sum-of-good-numbers](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/3723-sum-of-good-numbers) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/dharanisubramaniyan27/Leetcode-Problems/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
